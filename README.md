@@ -2,9 +2,9 @@
 ### Welcome to my profile. 
 
 <ul>
-  <li> ⭐ I'm Victória Nedina, 21y, from São Paulo.
+  <li> ⭐ I'm Victória Nedina, 21y, from São Paulo, Brazil.
   <li> 🚀 Science and Technology and Computer Science student at Federal University of ABC.
-  <li> 💻 Software Developer Intern at IBM.
+  <li> 💻 Software Engineering Intern at IBM.
 </ul>
 
 ##
@@ -29,9 +29,7 @@
 
  ##
 <div align="center"> 
-  <a href="https://instagram.com/victorianedina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/victorianedina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/victorianedina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/victorianedina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 </div>
