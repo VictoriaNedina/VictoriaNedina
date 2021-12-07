@@ -4,7 +4,7 @@
 <ul>
   <li> ⭐ I'm Victória Nedina, 21y, from São Paulo, Brazil.
   <li> 🚀 Science and Technology and Computer Science student at Federal University of ABC.
-  <li> 💻 IBMer.
+  <li> 💻 Software Development and Data Science.
 </ul>
 
 ##
